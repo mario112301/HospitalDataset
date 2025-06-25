@@ -30,7 +30,7 @@ This project is divided into three main interactive dashboards, each designed to
 
 View the interactive dashboard directly on Tableau Public:
 
-**Health Dashboard - Patient Summary[https://public.tableau.com/app/profile/mario.sianipar/viz/Health_17508421218050/Dashboard1?publish=yes]**
+**Health Dashboard - Patient Summary[https://bit.ly/HealthDashboardSummary]**
 
 ---
 
@@ -71,7 +71,7 @@ You can find the complete SQL scripts for table creation, data loading, and tran
 ## 🚀 How to Access & Run This Project
 ### 1. View Dashboard on Tableau Public (Recommended & Easiest)
 * Experience the interactive dashboard directly in your web browser by clicking here:
-    **Health Dashboard - Patient Summary [https://public.tableau.com/app/profile/mario.sianipar/viz/Health_17508421218050/Dashboard1?publish=yes]**
+    **Health Dashboard - Patient Summary [https://bit.ly/HealthDashboardSummary]**
 
 ### 2. Explore Project Files & Run Locally (For Technical Deep Dive)
 If you wish to examine the underlying data, SQL scripts, and Tableau workbook files:
