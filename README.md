@@ -1,7 +1,5 @@
 # [Hospital Patient Visit Data Analysis]
 
-![Dashboard Preview Image (Optional, but recommended)](https://public.tableau.com/app/profile/mario.sianipar/viz/Health_17508421218050/Dashboard1?publish=yes)
-
 ---
 
 ## 📄 Introduction
@@ -32,7 +30,7 @@ This project is divided into three main interactive dashboards, each designed to
 
 View the interactive dashboard directly on Tableau Public:
 
-**[https://public.tableau.com/app/profile/mario.sianipar/viz/Health_17508421218050/Dashboard1?publish=yes]**
+**Health Dashboard - Patient Summary[https://public.tableau.com/app/profile/mario.sianipar/viz/Health_17508421218050/Dashboard1?publish=yes]**
 
 ---
 
@@ -71,3 +69,23 @@ You can find the complete SQL scripts for table creation, data loading, and tran
 ---
 
 ## 🚀 How to Access & Run This Project
+### 1. View Dashboard on Tableau Public (Recommended & Easiest)
+* Experience the interactive dashboard directly in your web browser by clicking here:
+    **Health Dashboard - Patient Summary [https://public.tableau.com/app/profile/mario.sianipar/viz/Health_17508421218050/Dashboard1?publish=yes]**
+
+### 2. Explore Project Files & Run Locally (For Technical Deep Dive)
+If you wish to examine the underlying data, SQL scripts, and Tableau workbook files:
+
+* **Access Files:** You can browse all project files directly on this GitHub repository. To download them, simply click the green **"<> Code"** button on the main repository page and select **"Download ZIP"**.
+
+---
+
+## 📞 Contact
+
+If you have any questions or would like to connect, feel free to reach out:
+
+* **Name:** Mario Sianipar
+* **Email:** [mariosianipar001@gmail.com](mailto:mariosianipar001@gmail.com)
+* **LinkedIn:** [www.linkedin.com/in/msianipar](www.linkedin.com/in/msianipar)
+
+---
